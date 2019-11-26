@@ -1,0 +1,11 @@
+// waveform_module
+waveform_transfer_num 246
+pretrigger_sample 10
+// trigger_module
+trigger_threshold 138
+trigger_delay_num 1
+// dataoutput_module
+histogram_output_freq 100
+scl_output_freq 20
+// debug
+debug_mode 0
